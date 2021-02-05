@@ -1,1 +1,1 @@
-# mip
+# Medical image processing
